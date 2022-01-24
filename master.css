@@ -33,6 +33,19 @@
 .List{
     padding: 10px;
 }
+.TableIntestazione{
+    
+    color: white;
+    background-color: rgb(66, 66, 233);
+}
+.TableBody{
+    background-color: rgb(170, 170, 231); 
+ } 
+   
+
+.Table td{
+    width: calc(100% / 3);
+}
 
 .WhiteText{
     color: white;
