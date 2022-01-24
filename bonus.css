@@ -55,13 +55,16 @@
 .WhiteText{
     color: white;
     margin-left: 10px;
+ 
 }
+
 
 .MonitorImg{
     background-image: url("img/monitor.jpg");
     width: 220px;
     height: 220px;
     margin-bottom: 10px;
+    
 }
 
 .GraphImg{
