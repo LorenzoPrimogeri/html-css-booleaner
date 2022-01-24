@@ -1,0 +1,35 @@
+.header{
+    background-image: url("img/pattern.png");
+    background-repeat: repeat;
+    width: 220px;
+    height: 220px;
+}
+
+.Yellow{
+    background-color: yellow;
+
+}
+.GreyColor{
+    color: grey ;
+}
+
+
+.WhiteText{
+    color: white;
+    margin-left: 10px;
+}
+
+.MonitorImg{
+    background-image: url("img/monitor.jpg");
+    width: 220px;
+    height: 220px;
+}
+
+.GraphImg{
+    background-image: url("img/graph.jpg");
+   
+    width: 220px;
+    height: 220px;
+}
+
+
